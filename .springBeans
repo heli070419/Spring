@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beansProjectDescription>
+	<version>1</version>
+	<pluginVersion><![CDATA[3.6.4.201503051146-RELEASE]]></pluginVersion>
+	<configSuffixes>
+		<configSuffix><![CDATA[xml]]></configSuffix>
+	</configSuffixes>
+	<enableImports><![CDATA[false]]></enableImports>
+	<configs>
+		<config>src/spring-injection.xml</config>
+		<config>src/spring-beanscope.xml</config>
+		<config>src/spring-lifecycle.xml</config>
+		<config>src/spring-aware.xml</config>
+		<config>src/spring-autowiring.xml</config>
+		<config>src/spring-resource.xml</config>
+		<config>src/spring-beanannotation.xml</config>
+	</configs>
+	<autoconfigs>
+	</autoconfigs>
+	<configSets>
+	</configSets>
+</beansProjectDescription>
